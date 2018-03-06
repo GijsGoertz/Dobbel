@@ -1,2 +1,0 @@
-# Dobbel
-Dobbelsteentjes gooien
